@@ -1,2 +1,3 @@
 # Web-Development
 The purpose of this application is to share the photos and video of the user to a wide audience. And the audience can watch the things posted.
+It would list all the post of other users. The users will have the facility of logging and signing up into their personal accounts. Then the users after logging into their accounts will have the both options of either posting their work or watching other user’s post. The page will be developed with all the modern Full Stack technologies. It would be made fully responsive to render across all the different devices. It would also be scalable for future integration and development with production level servers and technologies.
